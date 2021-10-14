@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "USB Threat Model",
+    "owner": "av265",
+    "description": "A malicious USB posing as a HID device is inserted into a corporate computer."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "USB_HID_Attack",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
